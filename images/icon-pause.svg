@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.474" height="84.474" viewBox="0 0 84.474 84.474">
+  <g id="Group_1765" data-name="Group 1765" transform="translate(-848 -2047.126)">
+    <path id="Icon_awesome-play-circle" data-name="Icon awesome-play-circle" d="M42.8.562A42.237,42.237,0,1,0,85.036,42.8,42.23,42.23,0,0,0,42.8.562Z" transform="translate(847.438 2046.563)" fill="#253455"/>
+    <g id="Icon_ionic-ios-pause" data-name="Icon ionic-ios-pause" transform="translate(866 2063.376)">
+      <path id="Path_274" data-name="Path 274" d="M17.454,44.376h-7.5A.946.946,0,0,1,9,43.435V7.691a.946.946,0,0,1,.952-.941h7.5a.946.946,0,0,1,.952.941V43.435A.946.946,0,0,1,17.454,44.376Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_275" data-name="Path 275" d="M29.829,44.376h-7.5a.946.946,0,0,1-.952-.941V7.691a.946.946,0,0,1,.952-.941h7.5a.946.946,0,0,1,.952.941V43.435A.946.946,0,0,1,29.829,44.376Z" transform="translate(8.319 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
